@@ -1,16 +1,24 @@
-# newsapp
+# The-Wall-Street-Journal-News-App-Using-Rest-API
 
-A new Flutter project.
+This is The Wall Street Journal News app Useing Rest Api the main focus to make this app to see and Explore the Rest API Integration In Flutter Application
+Have a Look
 
-## Getting Started
+## Dependencies 
+ -   http: ^0.12.2
 
-This project is a starting point for a Flutter application.
+ 
+## Run the project
+- With Flutter installed, clone project and run `flutter run --release` in that directory,
+- Before Running the App Add Your API KEY in this directory The-Wall-Street-Journal-News-App-Using-Rest-API/lib/services/constants/constants.dart
+- For API KEY visit This Link https://newsapi.org/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align ="middle">
+ <img src="https://user-images.githubusercontent.com/47661086/95681486-c4201380-0bfd-11eb-822b-7701f00662ed.png/>
+
+
+</p>
+ 
+## Feedback is welcome! Contact me for any info.
