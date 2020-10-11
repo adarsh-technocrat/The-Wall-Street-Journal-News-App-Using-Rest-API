@@ -15,7 +15,7 @@ Have a Look
 
 ## Screenshots
 
-<p align ="middle">
+<p align ="left">
  <img src="https://user-images.githubusercontent.com/47661086/95681486-c4201380-0bfd-11eb-822b-7701f00662ed.png" width="200" height="400"/>
 
 
